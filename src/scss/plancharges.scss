@@ -1,0 +1,10 @@
+.validation-error {
+  font-size: 10px;
+  color: theme-color('danger');
+}
+
+.profile-page {
+  &__SubmitBtn {
+    float: right;
+  }
+}
